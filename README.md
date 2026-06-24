@@ -12,6 +12,7 @@ https://github.com/apoorvgupta21/Security_Scanner
 Clone the repository:
 
 ```bash
+python -m pip install -r requirements.txt
 git clone https://github.com/apoorvgupta21/Security_Scanner.git
 python security_helper.py
 pytest test_security_helper.py -v
